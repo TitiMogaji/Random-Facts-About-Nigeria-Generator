@@ -1,5 +1,5 @@
   body {
-    background: linear-gradient(to bottom, #ff6b6b, #386c5a);
+    background-image: linear-gradient(to bottom, #ff6b6b, #386c5a);
   }
   
   .box {
