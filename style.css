@@ -17,7 +17,7 @@
   
   h1 {
     font-size: 52px;
-    font-family: 'Times New Roman', cursive;
+    font-family: cursive, 'Times New Roman', sans-serif;
     margin: 0;
     padding-top: 30px;
     line-height: 1;
