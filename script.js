@@ -23,7 +23,11 @@ let facts = ['Nigeria is referred as the Giant of Africa due to its population a
 'The National Flag of Nigeria was designed by Michael Taiwo Akinkunmi in 1959.',
 'Nigeria’s Yoruba tribe has the highest number of twin births in the world.',
 'Nigeria has more Muslims than in Saudi Arabia.',
-'Nigeria is home to the single largest monument in Africa.'];
+'Nigeria is home to the single largest monument in Africa.',
+'Nigeria gained independence from the United Kingdom on 1 October 1960.',
+'Ogun State has a total of nine registered universities, the highest of any state in Nigeria.',
+'Nigeria is home to 4,715 different types of plant species.',
+'Babangida formally signed the legal instrument, Federal Capital Territory, Abuja, Decree 51 of December 12, 1991.'];
 
 const animalFacts = [];
 
