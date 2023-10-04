@@ -57,9 +57,9 @@
   text-align: center;
   border: none;
   border-radius: 10px;
-  padding:  3px 10px 3px 10px;
+  padding: 3px 10px 3px 10px;
   cursor: pointer;
-  margin:  18px;
+  margin: 18px;
 }
   
 .generateBtn:hover {
