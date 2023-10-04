@@ -50,20 +50,20 @@
   /* Button */
   
 .generateBtn {
-  background-color: #283618;
+  background-color: #007BFF;;
   font-family: 'Helvetica', sans-serif;
-  font-size: 30px;
-  color: #fefae0;
+  font-size: 24px;
+  color: #ff583372;
   text-align: center;
   border: none;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 3px 10px 3px 10px;
   cursor: pointer;
-  margin: 18px;
+  margin:  10px;
 }
   
 .generateBtn:hover {
-  background-color: #fefae0;
+  background-color: #ff583372;
   color:#283618;
 }
 
@@ -71,16 +71,16 @@
   background-color: #606c38;
     font-family: 'Helvetica', sans-serif;
     font-size: 30px;
-    color: #fefae0;
+    color: #ff583372;
     text-align: center;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 3px 10px 3px 10px;
     cursor: pointer;
 }
 
 .copyText:hover {
-  background-color: #fefae0;
+  background-color: #ff583372;
   color: #283618;
 }
 
