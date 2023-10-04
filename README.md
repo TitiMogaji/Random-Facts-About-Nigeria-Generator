@@ -22,10 +22,10 @@ You can view the project [here](https://titimogaji.github.io/Random-Facts-About-
 
 ## Screenshot
 
-![image](https://github.com/Rclarkeweb/are-you-bored/assets/108008511/a4440c5b-bd27-4aa6-9135-cbe41fac9f4b)
+![image](https://github.com/TitiMogaji/Random-Facts-About-Nigeria-Generator/blob/main/Random%20Facts%20About%20Nigeria%20Generator.png)
 
 **With fact**
-![image](https://github.com/Rclarkeweb/are-you-bored/assets/108008511/8cafeb70-18f4-470e-9559-fdde455d308e)
+![image](https://github.com/TitiMogaji/Random-Facts-About-Nigeria-Generator/blob/main/Random%20Facts%20About%20Nigeria%20Generator.png)
 
 ## Usage and license
 
