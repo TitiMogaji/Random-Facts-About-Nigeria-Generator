@@ -25,7 +25,7 @@ You can view the project [here](https://titimogaji.github.io/Random-Facts-About-
 ![image](https://github.com/TitiMogaji/Random-Facts-About-Nigeria-Generator/blob/main/Random%20Facts%20About%20Nigeria%20Generator.png)
 
 **With fact**
-![image](https://github.com/TitiMogaji/Random-Facts-About-Nigeria-Generator/blob/main/Random%20Facts%20About%20Nigeria%20Generator.png)
+![image](https://github.com/TitiMogaji/Random-Facts-About-Nigeria-Generator/blob/main/Random%20Facts%20About%20Nigeria%20Generator%20With%20Fact.png)
 
 ## Usage and license
 
