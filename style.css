@@ -1,0 +1,92 @@
+  body {
+    background-color: #606c38;
+  }
+  
+  .box {
+    background-color: rgb(254, 250, 224, 0.5);
+    width: 70vw;
+    height: auto;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 25px;
+    box-shadow: 10px 10px #283618;
+    text-align: center;
+  }
+  
+  
+  h1 {
+    font-size: 52px;
+    font-family: 'Baloo 2', cursive;
+    margin: 0;
+    padding-top: 10px;
+    line-height: 1;
+    text-align: center;
+    color: #283618;
+  }
+
+  p {
+    font-family: 'Dongle', sans-serif;
+    font-size: 28px; 
+    color: #283618 !important;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    line-height: 1;
+  }
+  
+  #factDisplay {
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: #283618;
+    line-height: 0.8;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+  }
+  
+  /* Button */
+  
+.generateBtn {
+  background-color: #283618;
+  font-family: 'Dongle', sans-serif;
+  font-size: 30px;
+  color: #fefae0;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  padding: 3px 10px 3px 10px;
+  cursor: pointer;
+  margin: 18px;
+}
+  
+.generateBtn:hover {
+  background-color: #fefae0;
+  color:#283618;
+}
+
+.copyText {
+  background-color: #606c38;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+    color: #fefae0;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    padding: 3px 10px 3px 10px;
+    cursor: pointer;
+}
+
+.copyText:hover {
+  background-color: #fefae0;
+  color: #283618;
+}
+
+#copied {
+  font-family: 'Dongle', sans-serif;
+    font-size: 28px;
+    color: #283618 !important;
+    display: none;
+}

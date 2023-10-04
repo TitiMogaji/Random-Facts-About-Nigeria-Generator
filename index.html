@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animal Fact Generator</title>
+   <meta name="viewport" content="width=device-width,initial-scale=1" >
+
+  <!-- CSS -->
+  <link href='style.css' rel='stylesheet'>
+
+  <!-- Google fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dongle&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/69f7465c1a.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  
+  <div class="box">
+
+    <h1>Animal Fact Generator</h1>
+    <p>Lets learn about animals!</p>
+    <br/>
+    <div id="factDisplay">
+      What will you learn?<br/>
+      Click the new fact button below!
+      <!-- Fact goes here -->
+    </div>
+
+    <br/>
+
+    <!-- Generate new fact button -->
+    <button class="generateBtn" id="newFactBtn" onclick="newFact()">New fact!</button>
+  
+    <!-- Copy fact to clipboard button -->
+    <button id="copyText" class="copyText">Copy fact</button><span id="copied">Copied!</span>
+  </div>
+
+  <script src='script.js'></script>
+</body>
+</html>
