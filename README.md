@@ -18,7 +18,7 @@ It was created using HTML5, CSS3, Flexbox and Vanilla JavaScript.
 
 ## View it live
 
-You can view the project [here](https://rclarkeweb.github.io/Random-Animal-Fact-Generator/).
+You can view the project [here](https://titimogaji.github.io/Random-Facts-About-Nigeria-Generator/).
 
 ## Screenshot
 
