@@ -1,11 +1,11 @@
 # Random Facts About Nigeria Generator
 
-This project allows a user to generate a random fact about an animal when they click a button.
-I built this project as I love animals and learning new things about them and also wanted to practise with DOM Manipulation using JavaScript.
+This project allows a user to generate a random fact about Nigeria when they click a button.
+I built this project as 'History' is no longer taught as a subject at the high school level in Nigeria and I want youngsters to learn new things about the country in a fun way, I  also wanted to practise with DOM Manipulation using JavaScript.
 
 ## Tech used
 
-It was created using HTML5, CSS3, Flexbox and Vanilla JavaScript.
+It was created using HTML5, CSS3, Flexbox, Vanilla JavaScript.
 
 **Language Icons**
 
