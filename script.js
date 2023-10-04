@@ -11,19 +11,19 @@ let facts = ['Nigeria is referred as the Giant of Africa due to its population a
 'Chappal Waddi is the highest mountain in Nigeria.', 
 'The official language of Nigeria is English.', 
 ' Nigeria is a member of both the African Union and the British Commonwealth.', 
-'Platypuses are venomous. Male Platypus have venomous spurs on their hind feet.', 
-'Platypus use electronic impulses to detect underwater prey and locate objects in the darkest depths of the creeks and rivers they call home.', 
-'Platypus babies are called Puggles', 
-'Lemurs are only native to Madagascar and there are over 100 species of Lemur', 
-'The Etruscan Shrew is the smallest mammal on earth and weighs an average of 1.8 grams',
-'A crickets ears are just below the knees of its front legs.',
-'There are over 1,400 species of bats worldwide.',
-'Bats are the only flying mammal.',
-'Hummingbirds are the only birds that can fly backwards.',
-'Crocodiles cannot stick their tongue out.',
-'Koalas are folivore specialists and can digest poisonous Eucalyptus leaves',
-'Cheetahs are blisteringly fast and can reach speeds up to 64 miles per hour in 3 seconds, making them the fastest land animals in the world over short distances.',
-'Elephants use their trunks to suck up water to drink, it can contain up to 8 litres of water.'];
+'In Nigeria, the left hand is only used for doing things that are considered dirty.', 
+'Abuja is a planned city, and was built mainly in the 1980s.', 
+'The movie industry of Nigeria is known as “Nollywood”.', 
+'Professor Wole Soyinka is the first Nigerian Nobel Laureate.', 
+'Africa’s oldest boat and the third oldest boat in the world was discovered in Yobe, Nigeria.',
+'Nigeria wins the Olympic gold at the 1992 Olympics in Atlanta.',
+'The drill monkey is native to Nigeria.',
+'The Jos Plateau Indigobird is a bird species that can only be found in Nigeria.',
+'Folorunso Alakija is one of the richest African women, and one of the richest black women in the world.',
+'The National Flag of Nigeria was designed by Michael Taiwo Akinkunmi in 1959.',
+'Nigeria’s Yoruba tribe has the highest number of twin births in the world.',
+'Nigeria has more Muslims than in Saudi Arabia.',
+'Nigeria is home to the single largest monument in Africa.'];
 
 const animalFacts = [];
 
