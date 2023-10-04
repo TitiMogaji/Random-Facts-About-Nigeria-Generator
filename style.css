@@ -3,7 +3,7 @@
   }
   
   .box {
-    background-color: rgb(254, 250, 224, 0.5);
+    background-color: rgba(224, 254, 247, 0.5);
     width: 70vw;
     height: auto;
     padding: 20px;
@@ -12,7 +12,6 @@
     border-radius: 25px;
     box-shadow: 10px 15px #183634;
     text-align: center;
-    background: linear-gradient(to bottom, #ff6b6b, #386c5a)
   }
   
   
@@ -58,7 +57,7 @@
   text-align: center;
   border: none;
   border-radius: 5px;
-  padding: 15px 30px 15px 30px;
+  padding:  3px 10px 3px 10px;
   cursor: pointer;
   margin:  30px;
 }
@@ -76,7 +75,7 @@
     text-align: center;
     border: none;
     border-radius: 5px;
-    padding: 15px 30px 15px 30px;
+    padding:  3px 10px 3px 10px;
     cursor: pointer;
 }
 
