@@ -29,16 +29,16 @@ let facts = ['Nigeria is referred as the Giant of Africa due to its population a
 'Nigeria is home to 4,715 different types of plant species.',
 'Babangida formally signed the legal instrument, Federal Capital Territory, Abuja, Decree 51 of December 12, 1991.'];
 
-const animalFacts = [];
+const nigeriaFacts = [];
 
 let newFact = () => {
   
   const generateFact = () => facts.splice(Math.floor(Math.random()*facts.length),1);
 
   let selectedCard = generateFact();
-  animalFacts.push(...selectedCard); //or hand.push(selectedCard[0])
+  nigeriaFacts.push(...selectedCard); //or hand.push(selectedCard[0])
   
-  for (let i = 0; i < animalFacts.length; i++) {
+  for (let i = 0; i < nigeriaFacts.length; i++) {
     
       if (facts.length == 0) {
         var x = document.getElementById("newFactBtn");
@@ -47,8 +47,8 @@ let newFact = () => {
         x.style.display = "none";
         copy.style.display = "none";
       } else {
-        document.getElementById('factDisplay').innerHTML = animalFacts[i];
-        console.log(animalFacts);
+        document.getElementById('factDisplay').innerHTML = nigeriaFacts[i];
+        console.log(nigeriaFacts);
       }
   }
   
