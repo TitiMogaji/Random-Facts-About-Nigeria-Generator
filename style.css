@@ -27,7 +27,7 @@
 
   p {
     font-family: 'Helvetica', sans-serif;
-    font-size: 28px; 
+    font-size: 18px; 
     color: #283618 !important;
     text-align: center;
     margin: 0;
@@ -75,7 +75,7 @@
     text-align: center;
     border: none;
     border-radius: 10px;
-    padding:  3px 10px 3px 10px;
+    padding: 3px 10px 3px 10px;
     cursor: pointer;
 }
 
