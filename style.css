@@ -38,7 +38,7 @@
   #factDisplay {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
     color: #283618;
     line-height: 0.8;
     margin: 10px;
@@ -52,7 +52,7 @@
 .generateBtn {
   background-color: #606c38;
   font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
+  font-size: 30px;
   color: #ff583372;
   text-align: center;
   border: none;
