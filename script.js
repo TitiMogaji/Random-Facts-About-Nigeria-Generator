@@ -1,8 +1,8 @@
-let facts = ['Pangolins are the only scaly mammal', 
-'Pangolins do not have teeth and are unable to chew. Instead, they have long sticky tongues that they use to catch the insects they feed on. Their tongues can be up to 16 inches long!', 
-'Dik-Diks, a small antelope, use a tar-like liquid from their eye glands to mark their territory.', 
-'All sloths are colour-blind, and can only see poorly in dim light and are completely blind in bright daylight.', 
-'Sloths are anatomically designed to fall out of trees. On average, a sloth will fall out of a tree once a week for its entire life.', 
+let facts = ['Nigeria is referred as the Giant of Africa due to its population and economy.', 
+'The Federal Republic of Nigeria is the official name of Nigeria.', 
+'Nigeria is a country located in West Africa.', 
+'The total population of Nigeria is around 188,462,640 people.'
+'Nigeria is the 7th most populous country in the world.', 
 'Puffins are fab flyers, flapping their wings up to 400 times a minute and speeding through the air at up to 88km an hour.', 'A baby puffin is called a puffling.', 
 'Rabbits have 3 eyelids!', 
 'Snakes have no eyelids.', 
