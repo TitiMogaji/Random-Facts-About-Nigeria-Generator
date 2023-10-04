@@ -1,4 +1,4 @@
-# Random Animal Fact Generator
+# Random Facts About Nigeria Generator
 
 This project allows a user to generate a random fact about an animal when they click a button.
 I built this project as I love animals and learning new things about them and also wanted to practise with DOM Manipulation using JavaScript.
