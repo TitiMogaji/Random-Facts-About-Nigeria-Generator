@@ -41,7 +41,7 @@
     font-size: 40px;
     color: #283618;
     line-height: 0.8;
-    margin: 30px;
+    margin: 10px;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.2);
     border-radius: 20px;
@@ -59,7 +59,7 @@
   border-radius: 10px;
   padding:  3px 10px 3px 10px;
   cursor: pointer;
-  margin:  30px;
+  margin:  18px;
 }
   
 .generateBtn:hover {
