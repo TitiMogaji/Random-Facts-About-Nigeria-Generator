@@ -1,5 +1,5 @@
   body {
-    background-color: #386c5a;
+    background: linear-gradient(to bottom, #ff6b6b, #386c5a);
   }
   
   .box {
@@ -10,7 +10,7 @@
     margin: 0 auto;
     margin-top: 30px;
     border-radius: 25px;
-    box-shadow: 10px 10px #183634;
+    box-shadow: 30px 30px #183634;
     text-align: center;
   }
   
@@ -19,7 +19,7 @@
     font-size: 52px;
     font-family: 'Baloo 2', cursive;
     margin: 0;
-    padding-top: 10px;
+    padding-top: 30px;
     line-height: 1;
     text-align: center;
     color: #18362c;
@@ -31,7 +31,7 @@
     color: #283618 !important;
     text-align: center;
     margin: 0;
-    padding: 10px;
+    padding: 30px;
     line-height: 1;
   }
   
@@ -41,7 +41,7 @@
     font-size: 40px;
     color: #283618;
     line-height: 0.8;
-    margin: 10px;
+    margin: 30px;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.2);
     border-radius: 20px;
@@ -57,9 +57,9 @@
   text-align: center;
   border: none;
   border-radius: 5px;
-  padding: 3px 10px 3px 10px;
+  padding: 15px 30px 15px 30px;
   cursor: pointer;
-  margin:  10px;
+  margin:  30px;
 }
   
 .generateBtn:hover {
@@ -75,7 +75,7 @@
     text-align: center;
     border: none;
     border-radius: 5px;
-    padding: 3px 10px 3px 10px;
+    padding: 15px 30px 15px 30px;
     cursor: pointer;
 }
 
