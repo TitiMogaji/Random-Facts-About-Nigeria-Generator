@@ -26,7 +26,7 @@
   }
 
   p {
-    font-family: 'Dongle', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 28px; 
     color: #283618 !important;
     text-align: center;
@@ -36,7 +36,7 @@
   }
   
   #factDisplay {
-    font-family: 'Dongle', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     text-align: center;
     font-size: 40px;
     color: #283618;
@@ -51,7 +51,7 @@
   
 .generateBtn {
   background-color: #283618;
-  font-family: 'Dongle', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 30px;
   color: #fefae0;
   text-align: center;
@@ -69,7 +69,7 @@
 
 .copyText {
   background-color: #606c38;
-    font-family: 'Dongle', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 30px;
     color: #fefae0;
     text-align: center;
@@ -85,7 +85,7 @@
 }
 
 #copied {
-  font-family: 'Dongle', sans-serif;
+  font-family: 'Helvetica', sans-serif;
     font-size: 28px;
     color: #283618 !important;
     display: none;
