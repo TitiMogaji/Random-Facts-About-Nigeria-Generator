@@ -1,5 +1,5 @@
   body {
-    background-color: #606c38;
+    background-color: #386c5a;
   }
   
   .box {
@@ -10,7 +10,7 @@
     margin: 0 auto;
     margin-top: 30px;
     border-radius: 25px;
-    box-shadow: 10px 10px #283618;
+    box-shadow: 10px 10px #183634;
     text-align: center;
   }
   
@@ -22,7 +22,7 @@
     padding-top: 10px;
     line-height: 1;
     text-align: center;
-    color: #283618;
+    color: #18362c;
   }
 
   p {
