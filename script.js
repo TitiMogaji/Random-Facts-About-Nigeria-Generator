@@ -2,9 +2,9 @@ let facts = ['Nigeria is referred as the Giant of Africa due to its population a
 'The Federal Republic of Nigeria is the official name of Nigeria.', 
 'Nigeria is a country located in West Africa.', 
 'The total population of Nigeria is around 188,462,640 people.'
-'Nigeria is the 7th most populous country in the world.', 
+'Nigeria is the 7th most populous country in the world',
 'It is the 32nd largest country with 356,669 square miles.',
-'Nigeria shares its border with Benin, Chad, Cameroon, and Niger.', 
+'Football is one of the country’s most popular sports.',
 'The capital city of Nigeria is Abuja.', 
 'The official currency of Nigeria is the Naira.', 
 'The largest city in Nigeria is Lagos.', 
